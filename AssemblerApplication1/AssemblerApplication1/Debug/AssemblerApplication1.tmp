@@ -1,0 +1,65 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Program Files\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Program Files\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Program Files\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>D:/Program Files\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>91</LINE></main>
+  <EEPROM_WRITE><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>15</LINE></EEPROM_WRITE>
+  <EEPROM_WRITE2><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>29</LINE></EEPROM_WRITE2>
+  <eepromflagw><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>42</LINE></eepromflagw>
+  <readflag><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>56</LINE></readflag>
+  <EEPROM_READ><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>68</LINE></EEPROM_READ>
+  <EEPROM_READ2><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>80</LINE></EEPROM_READ2>
+  <AGAIN><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>118</LINE></AGAIN>
+  <swCountup><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>138</LINE></swCountup>
+  <swCountdown><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>141</LINE></swCountdown>
+  <r><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>125</LINE></r>
+  <delays><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>340</LINE></delays>
+  <h><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>204</LINE></h>
+  <countHun><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>199</LINE></countHun>
+  <function><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>145</LINE></function>
+  <stop><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>270</LINE></stop>
+  <up><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>169</LINE></up>
+  <down><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>184</LINE></down>
+  <checkSw><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>158</LINE></checkSw>
+  <delaySeg><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>227</LINE></delaySeg>
+  <hundred><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>202</LINE></hundred>
+  <loophun><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>207</LINE></loophun>
+  <converseHun><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>294</LINE></converseHun>
+  <last2digits><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>214</LINE></last2digits>
+  <loop><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>217</LINE></loop>
+  <for><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>352</LINE></for>
+  <converse><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>317</LINE></converse>
+  <loopDigits><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>229</LINE></loopDigits>
+  <coutUphun><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>300</LINE></coutUphun>
+  <coutDownhun><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>308</LINE></coutDownhun>
+  <numUp><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>366</LINE></numUp>
+  <numDown><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>369</LINE></numDown>
+  <countUp><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>323</LINE></countUp>
+  <countdown><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>331</LINE></countdown>
+  <loop1><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>342</LINE></loop1>
+  <loop2><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>344</LINE></loop2>
+  <for2><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>356</LINE></for2>
+  <return><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>363</LINE></return>
+ </LABELS>
+</ASSEMBLER_INFO>
